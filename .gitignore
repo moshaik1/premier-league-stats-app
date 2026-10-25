@@ -1,0 +1,18 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets (database password) - never commit this
+.env
+
+# Node
+node_modules/
+dist/
+
+# Editors
+.idea/
+.vscode/
+
+# Local test databases
+*.db
